@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecurityToken</string>
+    <string name="passCode">Pass Code</string>
+    <string name="code">  Code  </string>
+    <string name="timeRemaining">Time Remaining</string>
+    <string name="verify">Verify</string>
+    <string name="codeEntry">Enter Code Here...</string>
+    <string name="success">Verification Successful</string>
+    <string name="pass">PASS</string>
+</resources>
